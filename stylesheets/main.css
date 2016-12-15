@@ -24,7 +24,13 @@ body{
 h1{
 	text-align: center;
 }
-
+.logo-scaled {
+	display: block;
+	width: 70%;
+	max-width: 200px;
+	margin-bottom: 15px;
+	align-content: center;
+}
 .img-scaled {
 	display: block;
 	width: 100%;
