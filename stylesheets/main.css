@@ -25,10 +25,10 @@ h1{
 	text-align: center;
 }
 .logo-scaled {
-	display: block;
+	display: inline;
 	width: 70%;
 	max-width: 200px;
-	margin-bottom: 15px;
+	margin-bottom: 1px;
 	align-items: center;
 }
 .img-scaled {
